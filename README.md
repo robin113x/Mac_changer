@@ -3,7 +3,7 @@ This work in kali linux,Parrot sec os &Arc linux.
 
 git clone https://github.com/robin113x/Mac_changer.git
 
-cd /Mac_changer
+cd Mac_changer
 
 python machanger.py --help
 
